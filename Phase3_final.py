@@ -430,9 +430,7 @@ if parent is not None:
     plt.arrow(x,y,xend-x,yend-y,length_includes_head=True,head_width=10, head_length=1,color="red")
     xend = x
     yend = y
-    frame=0
     for parent in parent_list:
-        frame +=1
         x = parent.state[0]
         y = parent.state[1]
         plt.arrow(x,y,xend-x,yend-y,length_includes_head=True,head_width=10, head_length=1,color="red")
