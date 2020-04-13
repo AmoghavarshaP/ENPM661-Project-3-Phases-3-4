@@ -1,7 +1,7 @@
 # ENPM661-Project-3-Phases-3-4
-# ENPM661: Project 3 Phase 3
+## ENPM661: Project 3 Phase 3
 
-# A* Algorithm Implementation on a differential drive
+## A* Algorithm Implementation on a differential drive
 
 ## Authors:
 
