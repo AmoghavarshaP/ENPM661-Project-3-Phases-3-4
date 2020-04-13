@@ -27,4 +27,4 @@ The user will asked to input the start and goal points, in terms of x and y coor
 In addition, the user will be prompted to input the the radius and clearance of the robot.
 Default values- (xi,yi,o1,xg,yg,RPM_L,RPM_R):(110,210,30,950,810,50,50) or (110,210,30,510,210,50,50).
 The algorithm will run once the goal is found a visual representation of the optimal path will be displayed on the screen.
-Please note: Visualization of the code will take slightly longer time.
+## Please note: Visualization of the code will take slightly longer time.
